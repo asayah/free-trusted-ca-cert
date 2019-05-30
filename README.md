@@ -1,5 +1,5 @@
 # Introduction
-This page illustrate how to create a reusable trusted letsencrypt CA certificate.
+This page illustrate how to create a reusable trusted letsencrypt CA certificate for NoIP.com DNS.
 
 # Prerequisites
 In this tutorial we will need a server, for allowing letsencrypt to issue a certificate for us, We will use a free tier AWS EC2 instance, start by creating a account on aws (we will use only the free tier, no worries) 
