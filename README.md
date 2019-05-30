@@ -18,7 +18,7 @@ In this tutorial we will need a server, for allowing letsencrypt to issue a cert
 
 - allow all traffic 
 
-![allow all inbound traffic](http://i67.tinypic.com/2cikadi.png
+![allow all inbound traffic](http://i67.tinypic.com/2cikadi.png)
 
 - click on the instance you have created, and locate its Public DNS
 
