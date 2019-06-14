@@ -61,4 +61,4 @@ You can delete your EC2 instance now if you don't need it.
 
 Enjoy your CA !!!
 
-
+Learn more about APIC Central and serivice Mesh governance: https://github.com/Axway/Setup-Amplify-Mesh-Governance/wiki/ 
